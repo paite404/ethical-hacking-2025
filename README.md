@@ -3,9 +3,8 @@ A comprehensive lab book documenting ethical hacking methodologies and practical
 # Ethical Hacking Lab Book - 2025
 
 ## Author
-Giningakpio Stephen Paite Justin  
-Roll No: 012230331  
-BSc Networking and Cyber Security  
+Giningakpio Stephen Paite Justin   
+BSc Networking and CyberSecurity  
 ISBAT University  
 
 ## Supervisor
